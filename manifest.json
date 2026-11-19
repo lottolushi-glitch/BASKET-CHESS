@@ -1,0 +1,20 @@
+{
+  "name": "Basket Chess",
+  "short_name": "Basket Chess",
+  "description": "Le basket rencontre les échecs.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef0f5",
+  "theme_color": "#6fd0ff",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
